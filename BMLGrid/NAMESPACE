@@ -1,0 +1,9 @@
+export(createBMLGrid)
+export(createBMLGridnew)
+export(runBMLGrid)
+export(runBMLGridC)
+S3method(plot,"bml")
+S3method(summary,"bml")
+
+useDynLib("BMLGrid")
+

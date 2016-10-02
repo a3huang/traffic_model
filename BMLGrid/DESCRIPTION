@@ -1,0 +1,8 @@
+Package: BMLGrid
+Title: BML Simulation
+Version: 0.1-0
+Date: 2015-04-29
+Author: Alex Huang
+Maintainer: Alex Huang <axhuang@ucdavis.edu>
+Description: This package provides functions to simulate the BML Traffic Model.
+License: BSD
